@@ -1,1 +1,8 @@
-target/**
+*.o
+*.d
+*.a
+*.so
+*.exe
+*.lib
+*.dll
+*.obj
